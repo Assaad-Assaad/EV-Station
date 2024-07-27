@@ -24,7 +24,7 @@ To run the EV Station App on your local machine, follow these steps:
 
 bash
 Copy code
-git clone https://github.com/Assaad-Assaad/ev-station-app.git
+git clone https://github.com/Assaad-Assaad/EV-Station.git
 cd ev-station-app
 2. Open the Project in Android Studio:
 
