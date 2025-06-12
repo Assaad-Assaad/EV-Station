@@ -1,4 +1,4 @@
-# EV Station App README
+# EV Station App
 ## Table of Contents
 - Overview
 - Features
